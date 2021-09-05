@@ -9,6 +9,7 @@ public class _01_BinaryDigits {
         Scanner scanner = new Scanner(System.in);
         int number = Integer.parseInt(scanner.nextLine());
         int binaryDigit = Integer.parseInt(scanner.nextLine());
+        double testVariable = 2.14;
 
 
         List<Integer> convertedNumber = new ArrayList<>();
