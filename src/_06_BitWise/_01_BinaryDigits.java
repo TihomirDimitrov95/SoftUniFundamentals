@@ -10,6 +10,7 @@ public class _01_BinaryDigits {
         int number = Integer.parseInt(scanner.nextLine());
         int binaryDigit = Integer.parseInt(scanner.nextLine());
         double testVariable = 2.14;
+        double anotherChange = 2.144;
 
 
         List<Integer> convertedNumber = new ArrayList<>();
