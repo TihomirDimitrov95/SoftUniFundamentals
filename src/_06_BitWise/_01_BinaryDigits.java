@@ -21,8 +21,7 @@ public class _01_BinaryDigits {
         }
 
         int count = 0;
-        for (int num :
-                convertedNumber) {
+        for (int num : convertedNumber) {
             if (num == binaryDigit) {
                 count++;
             }
